@@ -1,6 +1,9 @@
 # git-repo-watch 
 A node utility to sync git repositories and get notifications using RxJS.
  
+`npm install git-repo-watch`
+
+
 There are 2 operations modes:
   - **Sync** (simple `git pull`)
   - **Sync Fork** (pull source remote -> rebase -> push fork remote)
