@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "inlineSources": true,
+    "lib": ["es6"],
+    "outDir": "dist",
+    "declaration": true
+  },
+  "files": [
+    "src/simple-git.d.ts",
+    "src/index.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

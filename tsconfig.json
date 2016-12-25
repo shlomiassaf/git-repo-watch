@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "lib": ["es6"]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
